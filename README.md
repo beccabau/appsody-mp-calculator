@@ -1,6 +1,7 @@
 # appsody-mp-calculator
 
 appsody template java calculator
++, _, *
 
 
 other information - https://github.com/gcharters/kabanero-dev-getting-started#creating-a-new-codewind-project
