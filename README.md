@@ -1,2 +1,3 @@
 # appsody-mp-calculator
-# appsody-mp-calculator
+
+appsody template java calculator
